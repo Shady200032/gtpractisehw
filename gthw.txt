@@ -1,0 +1,10 @@
+local - create some versions in the master branch
+online - create github repo and push master to master
+local - create new branch feature
+local - checkout with feature
+local - make some changes in feature
+online - send the feature in github feature branch
+online - create a pull request from feature to master
+online -- merge pull request 
+
+
